@@ -1,7 +1,7 @@
 # GESTION-BIBLIOTHEQUE
 <img width="1536" height="1024" alt="livre" src="https://github.com/user-attachments/assets/5caab145-119b-4566-87e1-c34a7bfdfbb0" />
-
 ##Description
+
 Système numérique de gestion de bibliothèque conçu pour faciliter la gestion, l'organisation et le suivi des ressources documentaires au sein d'une bibliothèque. Cette plateforme permet de centraliser les informations relatives aux livres, aux catégories et aux emprunts, tout en offrant une solution moderne, rapide et efficace pour gérer les activités de la bibliothèque.
 
 Le système contribue à remplacer les méthodes manuelles de gestion des ouvrages et des emprunts par une solution numérique fiable, permettant de suivre la disponibilité des livres, les prêts en cours et les éventuels retards.
@@ -28,8 +28,8 @@ Le système contribue à remplacer les méthodes manuelles de gestion des ouvrag
 * **Sécurisation-des-données** : Gestion sécurisée des informations et contrôle des accès au système.
 
 ##Installation
-Ce projet est conçu pour être utilisé en environnement local :
 
+Ce projet est conçu pour être utilisé en environnement local :
 1. Clonez ou copiez ce dépôt sur votre machine.
 2. Placez le dossier du projet dans le répertoire `www` de **WAMP** ou `htdocs` de **XAMPP**.
 3. Importez la base de données SQL incluse dans le dossier `/database` via **phpMyAdmin**.
